@@ -7,7 +7,7 @@ Cria um programa que pegue a quantidade do empréstimo como entrada, calcule e ge
 Exemplo de entrada:
 20000
 
-Exemplo de salida:
+Exemplo de saida:
 10628
 
 Aquí está o calendario das mensalidades pagas:
