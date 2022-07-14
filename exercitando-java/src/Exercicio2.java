@@ -8,7 +8,7 @@ O programa pega a frase e coloca as letras em ordem inversa.
 Exemplo de entrada:
 hello there
 
-Ejemplo de saida:
+Exemplo de saida:
 ereht olleh*/
 
 public class Exercicio2 {
