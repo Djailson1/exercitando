@@ -5,6 +5,8 @@ public class ContagemRegressiva {
 		for(int num = 100; num >= 1; num--) {
 			System.out.println(num);
 		}
+		
+		System.out.println("fim");
 	}
 
 }
